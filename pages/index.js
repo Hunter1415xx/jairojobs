@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I’m <strong>Jay Consolacion</strong>. I’m a ui/ux intern on jairosoft. In terms of my interests, I have a fondness for two things: cats and games. I find cats to be fascinating creatures with their independent and curious nature, and I enjoy watching videos of them online. As for games, I love playing and learning about all kinds of video games, from action-packed shooters to relaxing puzzle games. You can contact me on{' '}
+          Hello, I’m <strong>Jay Consolacion</strong>. I’m a UI/UX intern on jairosoft. In terms of my interests, I have a fondness for two things: cats and games. I find cats to be fascinating creatures with their independent and curious nature, and I enjoy watching videos of them online. As for games, I love playing and learning about all kinds of video games, from action-packed shooters to relaxing puzzle games. You can contact me on{' '}
           <a href="https://www.facebook.com/jay.consolacion.927/">Facebook</a>.
         </p>
         <p>
