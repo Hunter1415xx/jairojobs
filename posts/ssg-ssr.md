@@ -1,19 +1,12 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
-date: '2022-01-02'
+title: 'Possibility of hacking the existence of life'
+date: '2023-03-22'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+0000%. You heard it right. It is not possible to **"hack"** the existence of life. Life is a complex biological phenomenon that has developed over billions of years through natural processes such as evolution.
 
-You can use Static Generation for many types of pages, including:
+It's important to **respect and appreciate** the natural world and the diversity of life that exists within it. Instead of trying to manipulate or control life, we can work to understand and protect it, and to promote sustainable practices that support the health and well-being of all living organisms.
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+If you are **interested in learning more about the origins and evolution of life**, there are many resources available such as books, documentaries, and scientific research. However, it's important to approach this topic with an **open and curious mind**, and to prioritize **accuracy and factual information over conspiracy theories or pseudoscience**.
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
 
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
-
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
